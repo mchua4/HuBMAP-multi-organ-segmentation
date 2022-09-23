@@ -1,1 +1,2 @@
-# HuBMAP-multi-organ-segmentation
+Identify and segment functional tissue units (FTUs) across five human organs.
+Model built using a dataset of tissue section images.
